@@ -103,9 +103,6 @@ The Math Quiz Game has no external dependencies, making it easy to run on any Py
 
 Contributions to the project are highly encouraged and welcome! If you have any ideas for improvements, bug fixes, or feature additions, please open an issue or submit a pull request. Your contributions will help make this project even better.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Author
 
