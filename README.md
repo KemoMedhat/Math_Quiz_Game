@@ -13,7 +13,6 @@
 - [Testing](#testing)
 - [Dependencies](#dependencies)
 - [Contributions](#contributions)
-- [License](#license)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -61,7 +60,7 @@ Before running the Math Quiz Game, ensure you have the following prerequisites i
 2. Run the Game:
 
    ```shell
-   python math_quiz_game.py
+   python project.py
    ```
 
 ## Usage
@@ -90,7 +89,7 @@ yes
 To ensure the correctness of the project functions, you can run the unit tests provided in the `test_project.py` file. Execute the following command:
 
 ```shell
-python test_project.py
+pytest test_project.py
 ```
 
 These tests verify that the core game functions work as expected, ensuring a robust and reliable learning experience for users.
@@ -114,5 +113,3 @@ The Math Quiz Game project is made possible by the contributions of the open-sou
 
 Enjoy playing and learning with the Math Quiz Game!
 ```
-
-This README.md file now contains several hundred words and provides a more detailed description of your Math Quiz Game project. You can further customize and expand it to provide even more information or details about your project.
