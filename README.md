@@ -109,8 +109,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-- [Your Name]
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Abdulmonaim Medhat
+- GitHub: [Your GitHub Profile](https://github.com/KemoMedhat)
 
 ## Acknowledgments
 
