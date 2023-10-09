@@ -10,6 +10,7 @@ simple math quize python program do the following
 import sys
 import os
 import random
+import cowsay
 
 right_answer = 0
 score = 0
@@ -27,20 +28,25 @@ def main():
             if Check_Answer(answer):
                 os.system("clear")
                 score += 1
-                print(f"Score:{score}👌🤩\n")
+                print(f"Right Answer👌🤩\n")
+                os.system(f"cowsay -c tux -t {score}")
                 state = int(input(("1- Play again\n2- Exit\n")))
                 os.system("clear")
             else:
                 score -= 1
                 os.system("clear")
-                print(f"Score:{score}☹️ ☹️\n")
+                print("Wrong Answer")
+                os.system(f"cowsay -c trex -t {score}")
                 state = int(input(("1- Try again\n2- Exit\n")))
                 os.system("clear")
         except ValueError:
             print("Invalid Answer")
             pass
         if state != 1:
-            sys.exit(f"Your final score is {score}\nThank you..👋")
+            
+            ccc = 'Your Final score is' + str(score) 
+            os.system("cowsay -c stegosaurus -t Thank_You ")
+            sys.exit()
 
 
 def Generate_Problem():
