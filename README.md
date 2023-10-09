@@ -13,7 +13,10 @@
 - [Testing](#testing)
 - [Dependencies](#dependencies)
 - [Contributions](#contributions)
+<<<<<<< HEAD
 - [License](#license)
+=======
+>>>>>>> 4af84464792bf129ce13d4ddd81bb11720ddb087
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -61,7 +64,11 @@ Before running the Math Quiz Game, ensure you have the following prerequisites i
 2. Run the Game:
 
    ```shell
+<<<<<<< HEAD
    python math_quiz_game.py
+=======
+   python project.py
+>>>>>>> 4af84464792bf129ce13d4ddd81bb11720ddb087
    ```
 
 ## Usage
@@ -90,7 +97,11 @@ yes
 To ensure the correctness of the project functions, you can run the unit tests provided in the `test_project.py` file. Execute the following command:
 
 ```shell
+<<<<<<< HEAD
 python test_project.py
+=======
+pytest test_project.py
+>>>>>>> 4af84464792bf129ce13d4ddd81bb11720ddb087
 ```
 
 These tests verify that the core game functions work as expected, ensuring a robust and reliable learning experience for users.
@@ -103,6 +114,7 @@ The Math Quiz Game has no external dependencies, making it easy to run on any Py
 
 Contributions to the project are highly encouraged and welcome! If you have any ideas for improvements, bug fixes, or feature additions, please open an issue or submit a pull request. Your contributions will help make this project even better.
 
+<<<<<<< HEAD
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
@@ -111,6 +123,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - [Your Name]
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
+=======
+## Author
+
+- Abdulmonaim Medhat
+- GitHub: [Your GitHub Profile](https://github.com/KemoMedhat)
+>>>>>>> 4af84464792bf129ce13d4ddd81bb11720ddb087
 
 ## Acknowledgments
 
@@ -118,5 +136,8 @@ The Math Quiz Game project is made possible by the contributions of the open-sou
 
 Enjoy playing and learning with the Math Quiz Game!
 ```
+<<<<<<< HEAD
 
 This README.md file now contains several hundred words and provides a more detailed description of your Math Quiz Game project. You can further customize and expand it to provide even more information or details about your project.
+=======
+>>>>>>> 4af84464792bf129ce13d4ddd81bb11720ddb087
