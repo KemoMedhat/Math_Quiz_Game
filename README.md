@@ -25,7 +25,7 @@
 The Math Quiz Game is an educational Python program designed to make learning and practicing math fun and engaging for users of all ages. Math is a fundamental skill, and this game aims to help users improve their math abilities through an enjoyable and interactive experience.
 
 The game generates random math problems, consisting of addition and multiplication operations, and asks users to solve them. It provides immediate feedback on the correctness of the answers and keeps track of users' scores. This README.md file provides comprehensive information about the project, its features, how to use it, and how to contribute to its development.
-
+![Alt text](right_answer.png "right answer")
 ## Features
 
 ### 1. Random Problem Generation
